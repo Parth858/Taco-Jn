@@ -540,3 +540,49 @@ footer a {
 .checkIcon {
   color: green;
 }
+
+@media only screen and (max-width: 1100px) {
+  body {
+    background-color: lightblue;
+  }
+  .contactForm{
+    margin-top: 30rem;
+  }
+
+    .contactForm {
+      width: 100%;
+      padding: 40px;
+      background: #fff;
+      border-radius: 2rem;
+    }
+    .contact {
+
+      padding: 0px;
+    }
+
+    .contactInfo{
+      display: flex;
+      flex-direction: column;
+    }
+    nav .container ul img{
+      display: none;
+    }
+    .navbar-brand{
+      font-size: 10px;
+    }
+    #footer{
+      margin-top: 40rem;
+    }
+    h3, p{
+      color: black;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+
+  .contactForm{
+    margin-top: 30rem;
+    padding: 10px;
+  }
+}
