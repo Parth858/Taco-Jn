@@ -39,7 +39,7 @@ The website is minimized as much as possible to avoid errors when entering data.
 
 ## Tech Stack <a name = "tech_stack"></a>
 
-- [CSS](css3.com)
-- HTML5
-- Java Script
+- [CSS](https://www.css3.com/)
+- [HTML](https://html.com/)
+- [Java Script](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
