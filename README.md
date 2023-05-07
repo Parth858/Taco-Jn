@@ -1,5 +1,5 @@
 # Taco Junction
-https://aditheripper.github.io/Taco-Jn/
+
 
 The purpose of an Online Food Ordering System is to automate the existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling their requirements so that their valuable data/information can be stored for a longer period with easy access and manipulation of the same. The required software and hardware are easily available and easy to work with.
 
@@ -18,12 +18,11 @@ The website is minimized as much as possible to avoid errors when entering data.
 - [Logo](#logo)
 - [Screenshots](#screenshots)
 - [Technology Stack](#tech_stack)
-- [Open-Source program](#open_source_programs)
-- [How to Contribute](#How-to-Contribute)
-- [Contributors](#contributors)
+
 
 ## Logo <a name = "logo"></a>
-<img height =200px, src="https://user-images.githubusercontent.com/62802231/194802891-66d7c782-9765-419d-964b-b6bf6323b95a.gif"/>
+![10001 MexinyanCat](https://user-images.githubusercontent.com/105660945/236660940-6908d826-2766-4a0f-96db-e72f7645e2ac.gif)
+
 
 # SCREENSHOTS <a name="screenshots"></a>
 ![Screenshot (360)](https://user-images.githubusercontent.com/105660945/236660849-31e6ed98-486f-4192-b702-1de4f129e447.png)
@@ -39,4 +38,8 @@ The website is minimized as much as possible to avoid errors when entering data.
 
 
 ## Tech Stack <a name = "tech_stack"></a>
+
+- CSS
+- HTML5
+- Java Script
 
